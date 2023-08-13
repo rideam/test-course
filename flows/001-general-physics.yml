@@ -1,0 +1,100 @@
+title: "General Physics"
+description: |
+    # General Physics
+  
+    * 1: Physical Quantities
+    * 2: Kinematics
+    * 3: Errors and uncertainties
+    * 4: Dynamics
+
+rules:
+    access:
+    -
+        if_has_role: [student, ta, instructor]
+        permissions: [view]
+
+    grade_identifier: null
+
+pages:
+
+-
+    type: Page
+    id: pq1
+    content: |
+      
+      ### Physical Quantities and Units
+
+      By the end of this sub-topic, learners should be able to:
+        
+        1. Express derived units as products or quotients of the base units.
+        2. Use base units to check the homogeneity of physical equations.
+        3. Derive physical equations using base units.
+        4. Demonstrate understanding and use the convention for labelling graph axes and table columns.
+        5. Use the following prefixes and their symbols to indicate decimal sub-multiples or multiples of both base and derived units: pico (p), nano (n), micro (p), milli (m), cent (c), deci (d), kilo (k), mega (M), giga (G) , tera (T).
+        6. Determine the resultant of two or more coplanar vectors
+        7. Represent a vector as two perpendicular components.
+      
+      ### Physical Quantities
+      
+      * Measurement is the heart of science in general, and physics in particular. In order to study or learn physics, one must be able to measure quantities.
+      * When taking a measurement, an unknown physical quantity is being compared to a known physical quantity.
+      * A physical quantity is a variable that can be measured, for example, mass, volume, velocity, acceleration, distance, speed, time, density, pressure and others.
+      * There are two items to be considered when stating a physical quantity. These are:
+          - The numerical value (magnitude) and
+          - The unit.
+              * For example in, 3 meters, 3 is the magnitude and meter is the unit.
+      
+      #### Quantities and units
+      
+      * Physical quantities can be classified into base quantities and derived quantities.
+      
+      #### Base quantities
+      
+      * A base quantity is one that is defined without reference to any other quantity.
+      * There are seven (7) base quantities.
+      * These are length, mass, time, electric current, temperature, the amount of substance and luminous intensity.
+      * The following table summarizes the base quantities and their base units.
+      
+      | Base Quantities      | Base Units | Symbols |
+      |----------------------|------------|---------|
+      | **Mass** ($\operatorname{m}$)          | Kilogram   | kg      |
+      | **Time** ($\operatorname{t}$)           | Second     | s       |
+      | **Length** ($\operatorname{l}$)         | Metre      | m       |
+      | **Electric current** ($\operatorname{I}$)| Ampere     | A       |
+      | **Amount of substance**            | Mole       | mol     |
+      | **Temperature** ($\operatorname{T}$)    | Kelvin     | K       |
+      | **Luminous intensity**              | Candela    | cd      |
+      
+      * All other quantities are derived from the ones above.
+
+-
+    type: Page
+    id: kn1
+    content: |
+      
+      ### Kinematics
+      
+      <div style='background-color:#E9D8FD; color: #69337A; border-left: solid #805AD5 4px; border-radius: 4px; padding:0.7em;'><span><p style='margin-top:1em; text-align:center'><b>On the importance of sentence length</b></p><p style='margin-left:1em;'>This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It's like a stuck record. The ear demands some variety.<br><br>Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals -- sounds that say listen to this, it is important.</p><p style='margin-bottom:1em; margin-right:1em; text-align:right; font-family:Georgia'> <b>- Gary Provost</b> <i>(100 Ways to Improve Your Writing, 1985)</i></p></span></div>
+      
+
+-
+    type: Page
+    id: eau1
+    content: |
+
+      ### Errors and uncertainties
+
+
+-
+  type: Page
+  id: dn1
+  content: |
+    
+    ### Dynamics
+
+
+completion_text: |
+
+    ### Summary
+
+    Now you're ready to take the [quiz](flow:quiz-test).
