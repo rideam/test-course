@@ -1,7 +1,7 @@
 content: |
 
     {% from "content-macros.jinja" import indented_include %}
-    {{ indented_include("markdown/test.md", 4) }}
+    {{ indented_include("markdown/test.md", 0) }}
 
     # Demo page
 
