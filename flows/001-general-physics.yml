@@ -1,10 +1,10 @@
 title: "General Physics"
 description: |
-    # General Physics
+    ## General Physics
   
     * 1: Physical Quantities
     * 2: Kinematics
-    * 3: Errors and uncertainties
+    * 3: [Errors and uncertainities]((staticpage:test))
     * 4: Dynamics
 
 rules:

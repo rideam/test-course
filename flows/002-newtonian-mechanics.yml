@@ -1,6 +1,8 @@
-title: "Linear Algebra"
+title: "Newtonian Mechanics"
 description: |
-    # Linear Algebra Recap
+    ## Newtonian Mechanics
+
+    Newtonian mechanics is most straightforward in its formulation and is based on Newton's second law. It is efficient in most cases, especially for consideration of particles under the influence of forces. Lagrangian mechanics is more sophisticated and based of the least action principle
 
 rules:
     access:
@@ -17,12 +19,12 @@ pages:
     id: intro
     content: |
 
-        # A little distraction to start
+        ## Overview
 
-        Yadda yadda.
+        a brief introduction to the mathematics behind physics including the addition and multiplication of vectors as well as velocity and acceleration in terms of particles.
 
         {% from "content-macros.jinja" import youtube %}
-        {{ youtube("QH2-TGUlwu4") }}
+        {{ youtube("ApUFtLCrU90") }}
 
 -
     type: Page
@@ -31,7 +33,7 @@ pages:
 
         # Vectors
 
-        A vector is pretty straight.
+        A vector is a quantity or phenomenon that has two independent properties: magnitude and direction. The term also denotes the mathematical or geometrical representation of such a quantity. Examples of vectors in nature are velocity, momentum, force, electromagnetic fields, and weight.
 
 
 -
