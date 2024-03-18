@@ -1,4 +1,5 @@
 {# Make sure to avoid 4-spaces-deep (or deeper) indentation #}
+{% macro indented_include(filename, n) -%}{%- filter indent(n) -%}{%- include filename -%}{%- endfilter %}{%- endmacro %}
 
 {# The results get of Jinja expansion get fed into Markdown, which #}
 {# may do undesired things with such deeply indented content. #}
