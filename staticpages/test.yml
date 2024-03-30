@@ -2,7 +2,3 @@ content: |
 
     {% from "content-macros.jinja" import indented_include %}
     {{ indented_include("markdown/test.md", 0) }}
-
-    # Demo page
-
-    I am just a simple demo page. Go back to the [course page](course:)?

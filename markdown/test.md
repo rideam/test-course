@@ -10,7 +10,7 @@ By the end of this sub-topic, learners should be able to:
 6. Determine the resultant of two or more coplanar vectors
 7. Represent a vector as two perpendicular components.
 
-# Physical Quantities
+## Physical Quantities
 
 * Measurement is the heart of science in general, and physics in particular. In order to study or learn physics, one must be able to measure quantities.
 * When taking a measurement, an unknown physical quantity is being compared to a known physical quantity.
@@ -20,11 +20,11 @@ By the end of this sub-topic, learners should be able to:
     - The unit.
         * For example in, 3 meters, 3 is the magnitude and meter is the unit.
 
-# Quantities and units
+## Quantities and units
 
 * Physical quantities can be classified into base quantities and derived quantities.
 
-#### Base quantities
+### Base quantities
 
 * A base quantity is one that is defined without reference to any other quantity.
 * There are seven (7) base quantities.

@@ -14,7 +14,7 @@ chunks:
 
     content: |
 
-        ## Physics
+        # Physics
         
         * Lesson 1: [General Physics](flow:001-general-physics)
         * Lesson 2: [Newtonian Mechanics](flow:002-newtonian-mechanics)
@@ -34,7 +34,7 @@ chunks:
         weight: 200
 
     -
-        shown: False
+        shown: True
         weight: 0
 
     content: |
