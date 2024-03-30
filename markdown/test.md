@@ -1,14 +1,12 @@
-# Physical Quantities and Units
 
-By the end of this sub-topic, learners should be able to:
-
-1. Express derived units as products or quotients of the base units.
-2. Use base units to check the homogeneity of physical equations.
-3. Derive physical equations using base units.
-4. Demonstrate understanding and use the convention for labelling graph axes and table columns.
-5. Use the following prefixes and their symbols to indicate decimal sub-multiples or multiples of both base and derived units: pico (p), nano (n), micro (p), milli (m), cent (c), deci (d), kilo (k), mega (M), giga (G) , tera (T).
-6. Determine the resultant of two or more coplanar vectors
-7. Represent a vector as two perpendicular components.
+!!! note "**By the end of this sub-topic, learners should be able to:**"
+    - Express derived units as products or quotients of the base units.
+    - Use base units to check the homogeneity of physical equations.
+    - Derive physical equations using base units.
+    - Demonstrate understanding and use the convention for labelling graph axes and table columns.
+    - Use the following prefixes and their symbols to indicate decimal sub-multiples or multiples of both base and derived units: pico (p), nano (n), micro (p), milli (m), cent (c), deci (d), kilo (k), mega (M), giga (G) , tera (T).
+    - Determine the resultant of two or more coplanar vectors.
+    - Represent a vector as two perpendicular components.
 
 ## Physical Quantities
 

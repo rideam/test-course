@@ -1,4 +1,6 @@
 content: |
 
+    # Physical Quantities and Units
+
     {% from "content-macros.jinja" import indented_include %}
     {{ indented_include("markdown/test.md", 0) }}
