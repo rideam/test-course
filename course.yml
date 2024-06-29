@@ -34,11 +34,11 @@ chunks:
         weight: 200
 
     -
-        shown: True
+        shown: False
         weight: 0
 
     content: |
 
-        # Welcome to the computer-based testing facility!
+        # Exam
 
         <a href="flow:exam-1" class="btn btn-secondary">Start exam &raquo;</a>
